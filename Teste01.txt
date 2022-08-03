@@ -1,0 +1,305 @@
+1. A Divina Comédia -Dante Alighieri
+2. A Comédia dos Erros -William Shakespeare
+3. Poemas de Fernando Pessoa -Fernando Pessoa
+4. Dom Casmurro -Machado de Assis
+5. Cancioneiro -Fernando Pessoa
+6. Romeu e Julieta -William Shakespeare
+7. A Cartomante -Machado de Assis
+8. Mensagem -Fernando Pessoa
+9. A Carteira -Machado de Assis
+10. A Megera Domada -William Shakespeare
+11. A Tragédia de Hamlet, Príncipe da Dinamarca -William Shakespeare
+12. Sonho de Uma Noite de Verão -William Shakespeare
+13. O Eu profundo e os outros Eus. -Fernando Pessoa
+14. Dom Casmurro -Machado de Assis
+15.. Do Livro do Desassossego -Fernando Pessoa
+16. Poesias Inéditas -Fernando Pessoa
+17. Tudo Bem Quando Termina Bem -William Shakespeare
+18. A Carta -Pero Vaz de Caminha
+19. A Igreja do Diabo -Machado de Assis
+20. Macbeth-William Shakespeare
+21. Este mundo da injustiça globalizada -José Saramago
+22. A Tempestade -William Shakespeare
+23. O pastor amoroso -Fernando Pessoa
+24. A Cidade e as Serras -José Maria Eça de Queirós
+25. Livro do Desassossego -Fernando Pessoa
+26. A Carta de Pero Vaz de Caminha -Pero Vaz de Caminha
+27. O Guardador de Rebanhos -Fernando Pessoa
+28. O Mercador de Veneza -William Shakespeare
+29. A Esfinge sem Segredo -Oscar Wilde
+30. Trabalhos de Amor Perdidos -William Shakespeare
+31. Memórias Póstumas de Brás Cubas -Machado de Assis
+32. A Mão e a Luva -Machado de Assis
+33. Arte Poética -Aristóteles
+34. Conto de Inverno -William Shakespeare
+35. Otelo, O Mouro de Veneza -William Shakespeare
+36. Antônio e Cleópatra -William Shakespeare
+37. Os Lusíadas -Luís Vaz de Camões
+38. A Metamorfose -Franz Kafka
+39. A Cartomante -Machado de Assis
+40. Rei Lear-William Shakespeare
+41. A Causa Secreta -Machado de Assis
+42. Poemas Traduzidos -Fernando Pessoa
+43. Muito Barulho Por Nada -William Shakespeare
+44. Júlio César -William Shakespeare
+45. Auto da Barca do Inferno -Gil Vicente
+46. Poemas de Álvaro de Campos -Fernando Pessoa
+47. Cancioneiro -Fernando Pessoa
+48. Catálogo de Autores Brasileiros com a Obra em Domínio Público - Fundação Biblioteca Nacional
+49. A Ela -Machado de Assis
+50. O Banqueiro Anarquista -Fernando Pessoa
+51. Dom Casmurro -Machado de Assis
+52. A Dama das Camélias -Alexandre Dumas Filho
+53. Poemas de Álvaro de Campos -Fernando Pessoa
+54. Adão e Eva -Machado de Assis
+55. A Moreninha -Joaquim Manuel de Macedo
+56. A Chinela Turca -Machado de Assis
+57. As Alegres Senhoras de Windsor -William Shakespeare
+58. Poemas Selecionados -Florbela Espanca
+59. As Vítimas-Algozes -Joaquim Manuel de Macedo
+60. Iracema -José de Alencar
+61. A Mão e a Luva -Machado de Assis
+62. Ricardo III -William Shakespeare
+63. O Alienista -Machado de Assis
+64. Poemas Inconjuntos-Fernando Pessoa
+65. A Volta ao Mundo em 80 Dias -Júlio Verne
+66. A Carteira -Machado de Assis
+67. Primeiro Fausto -Fernando Pessoa
+68. Senhora -José de Alencar
+69. A Escrava Isaura -Bernardo Guimarães
+70. Memórias Póstumas de Brás Cubas -Machado de Assis
+71. A Mensageira das Violetas -Florbela Espanca
+72. Sonetos -Luís Vaz de Camões
+73. Eu e Outras Poesias -Augusto dos Anjos
+74. Fausto -Johann Wolfgang von Goethe
+75. Iracema -José de Alencar
+76. Poemas de Ricardo Reis -Fernando Pessoa
+77. Os Maias -José Maria Eça de Queirós
+78. O Guarani -José de Alencar
+79. A Mulher de Preto -Machado de Assis
+80. A Desobediência Civil -Henry David Thoreau
+81. A Alma Encantadora das Ruas -João do Rio
+82. A Pianista -Machado de Assis
+83. Poemas em Inglês -Fernando Pessoa
+84. A Igreja do Diabo -Machado de Assis
+85. A Herança -Machado de Assis
+86. A chave -Machado de Assis
+87. Eu -Augusto dos Anjos
+88. As Primaveras -Casimiro de Abreu
+89. A Desejada das Gentes -Machado de Assis
+90. Poemas de Ricardo Reis -Fernando Pessoa
+91. Quincas Borba -Machado de Assis
+92. A Segunda Vida -Machado de Assis
+93. Os Sertões -Euclides da Cunha
+94. Poemas de Álvaro de Campos -Fernando Pessoa
+95. O Alienista -Machado de Assis
+96. Don Quixote. Vol. 1 -Miguel de Cervantes Saavedra
+97. Medida Por Medida -William Shakespeare
+98. Os Dois Cavalheiros de Verona -William Shakespeare
+99. A Alma do Lázaro -José de Alencar
+100. A Vida Eterna -Machado de Assis
+101. A Causa Secreta -Machado de Assis
+102. 14 de Julho na Roça -Raul Pompéia
+103. Divina Comedia -Dante Alighieri
+104. O Crime do Padre Amaro -José Maria Eça de Queirós
+105. Coriolano -William Shakespeare
+106. Astúcias de Marido -Machado de Assis
+107. Senhora -José de Alencar
+108. Auto da Barca do Inferno -Gil Vicente
+109. Noite na Taverna -Manuel Antônio Álvares de Azevedo
+110. Memórias Póstumas de Brás Cubas -Machado de Assis
+111. A 'Não-me-toques' ! -Artur Azevedo
+112. Os Maias -José Maria Eça de Queirós
+113. Obras Seletas -Rui Barbosa
+114. A Mão e a Luva -Machado de Assis
+115. Amor de Perdição -Camilo Castelo Branco
+116. Aurora sem Dia -Machado de Assis
+117. Édipo-Rei-Sófocles
+118. O Abolicionismo -Joaquim Nabuco
+119. Pai Contra Mãe -Machado de Assis
+120. O Cortiço -Aluísio de Azevedo
+121. Tito Andrônico-William Shakespeare
+122. Adão e Eva -Machado de Assis
+123. Os Sertões -Euclides da Cunha
+124. Esaú e Jacó -Machado de Assis
+125. Don Quixote -Miguel de Cervantes
+126. Camões -Joaquim Nabuco
+127. Antes que Cases -Machado de Assis
+128. A melhor das noivas -Machado de Assis
+129. Livro de Mágoas -Florbela Espanca
+130. O Cortiço -Aluísio de Azevedo
+131. A Relíquia -José Maria Eça de Queirós
+132. Helena -Machado de Assis
+133. Contos -José Maria Eça de Queirós
+134. A Sereníssima República -Machado de Assis
+135. Iliada-Homero
+136. Amor de Perdição -Camilo Castelo Branco
+137. A Brasileira de Prazins-Camilo Castelo Branco
+138. Os Lusíadas -Luís Vaz de Camões
+139. Sonetos e Outros Poemas -Manuel Maria de Barbosa du Bocage
+140. Ficções do interlúdio: para além do outro oceano de Coelho Pacheco. - Fernando Pessoa
+141. Anedota Pecuniária -Machado de Assis
+142. A Carne -Júlio Ribeiro
+143. O Primo Basílio -José Maria Eça de Queirós
+144. Don Quijote-Miguel de Cervantes
+145. A Volta ao Mundo em Oitenta Dias -Júlio Verne
+146. A Semana -Machado de Assis
+147. A viúva Sobral -Machado de Assis
+148. A Princesa de Babilônia -Voltaire
+149. O Navio Negreiro -Antônio Frederico de Castro Alves
+150. Catálogo de Publicações da Biblioteca Nacional -Fundação Biblioteca Nacional
+151. Papéis Avulsos -Machado de Assis
+152. Eterna Mágoa -Augusto dos Anjos
+153. Cartas D'Amor -José Maria Eça de Queirós
+154. O Crime do Padre Amaro -José Maria Eça de Queirós
+155. Anedota do Cabriolet-Machado de Assis
+156. Canção do Exílio -Antônio Gonçalves Dias
+157. A Desejada das Gentes -Machado de Assis
+158. A Dama das Camélias -Alexandre Dumas Filho
+159. Don Quixote. Vol. 2 -Miguel de Cervantes Saavedra
+160. Almas Agradecidas -Machado de Assis
+161. Cartas D'Amor - O Efêmero Feminino -José Maria Eça de Queirós
+162. Contos Fluminenses -Machado de Assis
+163. Odisséia -Homero
+164. Quincas Borba -Machado de Assis
+165. A Mulher de Preto -Machado de Assis
+166. Balas de Estalo -Machado de Assis
+167. A Senhora do Galvão -Machado de Assis
+168. O Primo Basílio -José Maria Eça de Queirós
+169. A Inglezinha Barcelos -Machado de Assis
+170. Capítulos de História Colonial (1500-1800) -João Capistrano de Abreu
+171. CHARNECA EM FLOR -Florbela Espanca
+172. Cinco Minutos -José de Alencar
+173. Memórias de um Sargento de Milícias -Manuel Antônio de Almeida
+174. Lucíola -José de Alencar
+175. A Parasita Azul -Machado de Assis
+176. A Viuvinha -José de Alencar
+177. Utopia - Thomas Morus
+178. Missa do Galo -Machado de Assis
+179. Espumas Flutuantes -Antônio Frederico de Castro Alves
+180. História da Literatura Brasileira: Fatores da Literatura Brasileira -Sílvio Romero
+181. Hamlet -William Shakespeare
+182. A Ama-Seca -Artur Azevedo
+183. O Espelho -Machado de Assis
+184. Helena -Machado de Assis
+185. As Academias de Sião -Machado de Assis
+186. A Carne -Júlio Ribeiro
+187. A Ilustre Casa de Ramires -José Maria Eça de Queirós
+188. Como e Por Que Sou Romancista -José de Alencar
+189. Antes da Missa -Machado de Assis
+190. A Alma Encantadora das Ruas -João do Rio
+191. A Carta -Pero Vaz de Caminha
+192. LIVRO DE SÓROR SAUDADE -Florbela Espanca
+193. A mulher Pálida -Machado de Assis
+194. Americanas -Machado de Assis
+195. Cândido -Voltaire
+196. Viagens de Gulliver-Jonathan Swift
+197. El Arte de la Guerra -Sun Tzu
+198. Conto de Escola -Machado de Assis
+199. Redondilhas -Luís Vaz de Camões
+200. Iluminuras -Arthur Rimbaud
+201. Schopenhauer-Thomas Mann
+202. Carolina -Casimiro de Abreu
+203. A esfinge sem segredo -Oscar Wilde
+204. Carta de Pero Vaz de Caminha. -Pero Vaz de Caminha
+205. Memorial de Aires -Machado de Assis
+206. Triste Fim de Policarpo Quaresma -Afonso Henriques de Lima Barreto
+207. A última receita -Machado de Assis
+208. 7 Canções -Salomão Rovedo
+209. Antologia -Antero de Quental
+210. O Alienista -Machado de Assis
+211. Outras Poesias -Augusto dos Anjos
+212. Alma Inquieta -Olavo Bilac
+213. A Dança dos Ossos -Bernardo Guimarães
+214. A Semana -Machado de Assis
+215. Diário Íntimo -Afonso Henriques de Lima Barreto
+216. A Casadinha de Fresco -Artur Azevedo
+217. Esaú e Jacó -Machado de Assis
+218. Canções e Elegias -Luís Vaz de Camões
+219. História da Literatura Brasileira -José Veríssimo Dias de Matos
+220. A mágoa do Infeliz Cosme -Machado de Assis
+221. Seleção de Obras Poéticas -Gregório de Matos
+222. Contos de Lima Barreto -Afonso Henriques de Lima Barreto
+223. Farsa de Inês Pereira -Gil Vicente
+224. A Condessa Vésper -Aluísio de Azevedo
+225. Confissões de uma Viúva -Machado de Assis
+226. As Bodas de Luís Duarte -Machado de Assis
+227. O LIVRO D'ELE -Florbela Espanca
+228. O Navio Negreiro -Antônio Frederico de Castro Alves
+229. A Moreninha -Joaquim Manuel de Macedo
+230. Lira dos Vinte Anos -Manuel Antônio Álvares de Azevedo
+231. A Orgia dos Duendes -Bernardo Guimarães
+232. Kamasutra-Mallanâga Vâtsyâyana
+233. Triste Fim de Policarpo Quaresma -Afonso Henriques de Lima Barreto
+234. A Bela Madame Vargas -João do Rio
+235. Uma Estação no Inferno -Arthur Rimbaud
+236. Cinco Mulheres -Machado de Assis
+237. A Confissão de Lúcio -Mário de Sá-Carneiro
+238. O Cortiço -Aluísio Azevedo
+239. RELIQUIAE-Florbela Espanca
+240. Minha formação -Joaquim Nabuco
+241. A Conselho do Marido -Artur Azevedo
+242. Auto da Alma -Gil Vicente
+243. 345 -Artur Azevedo
+244. O Dicionário -Machado de Assis
+245. Contos Gauchescos -João Simões Lopes Neto
+246.. A idéia do Ezequiel Maia -Machado de Assis
+247. AMOR COM AMOR SE PAGA -França Júnior
+248. Cinco minutos -José de Alencar
+249. Lucíola -José de Alencar
+250. Aos Vinte Anos -Aluísio de Azevedo
+251. A Poesia Interminável -João da Cruz e Sousa
+252. A Alegria da Revolução -Ken Knab
+253. O Ateneu -Raul Pompéia
+254. O Homem que Sabia Javanês e Outros Contos - Afonso Henriques de Lima Barreto
+255. Ayres e Vergueiro -Machado de Assis
+256. A Campanha Abolicionista -José Carlos do Patrocínio
+257. Noite de Almirante -Machado de Assis
+258. O Sertanejo -José de Alencar
+259. A Conquista -Coelho Neto
+260. Casa Velha -Machado de Assis
+261. O Enfermeiro -Machado de Assis
+262. O Livro de Cesário Verde -José Joaquim Cesário Verde
+263. Casa de Pensão -Aluísio de Azevedo
+264. A Luneta Mágica -Joaquim Manuel de Macedo
+265. Poemas -Safo
+266. A Viuvinha -José de Alencar
+267. Coisas que Só Eu Sei -Camilo Castelo Branco
+268. Contos para Velhos -Olavo Bilac
+269. Ulysses -James Joyce
+270. 13 Oktobro 1582 -Luiz Ferreira Portella Filho
+271. Cícero -Plutarco
+272. Espumas Flutuantes -Antônio Frederico de Castro Alves
+273. Confissões de uma Viúva Moça -Machado de Assis
+274. As Religiões no Rio -João do Rio
+275. Várias Histórias -Machado de Assis
+276. A Arrábida-Vania Ribas Ulbricht
+277. Bons Dias -Machado de Assis
+278. O Elixir da Longa Vida -Honoré de Balzac
+279. A Capital Federal -Artur Azevedo
+280. A Escrava Isaura -Bernardo Guimarães
+281. As Forças Caudinas-Machado de Assis
+282. Coração, Cabeça e Estômago -Camilo Castelo Branco
+283. Balas de Estalo -Machado de Assis
+284. AS VIAGENS -Olavo Bilac
+285. Antigonas-Sofócles
+286. A Dívida -Artur Azevedo
+287. Sermão da Sexagésima -Pe. Antônio Vieira
+288. Uns Braços -Machado de Assis
+289. Ubirajara -José de Alencar
+290. Poética -Aristóteles
+291. Bom Crioulo -Adolfo Ferreira Caminha
+292. A Cruz Mutilada -Vania Ribas Ulbricht
+293. Antes da Rocha Tapéia-Machado de Assis
+294. Poemas Irônicos, Venenosos e Sarcásticos - Manuel Antônio Álvares de Azevedo
+295. Histórias da Meia-Noite -Machado de Assis
+296. Via-Láctea-Olavo Bilac
+297. O Mulato -Aluísio de Azevedo
+298. O Primo Basílio - José Maria Eça de Queirós
+299. Os Escravos -Antônio Frederico de Castro Alves
+300. A Pata da Gazela -José de Alencar
+301. BRÁS, BEXIGA E BARRA FUNDA -Alcântara Machado
+302. Vozes d'África -Antônio Frederico de Castro Alves
+303.. Memórias de um Sargento de Milícias -Manuel Antônio de Almeida
+304. O que é o Casamento? -José de Alencar
+305. A Harpa do Crente -Vania Ribas Ulbricht

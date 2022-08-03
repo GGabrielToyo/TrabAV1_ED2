@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1659567395 source:c:\users\gabriel alves\documents\projetos c++\e.d 2 2022.1\trabav1_ed2\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<locale.h>
+	<fstream>
+	"ArvoreAVL.h"
+
+1659567528 c:\users\gabriel alves\documents\projetos c++\e.d 2 2022.1\trabav1_ed2\arvoreavl.h
+	<iostream>
+	<cstring>
+	<locale.h>
+	<fstream>
+
+1658936644 c:\users\gabriel alves\documents\projetos c++\e.d 2 2022.1\trabav1_ed2\classes.c
+	"ArvoreAVL.h"
+
